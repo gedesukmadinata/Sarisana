@@ -157,7 +157,7 @@ function tampilkanAlert() {
   // Menutup alert otomatis setelah 3 detik (3000 milidetik)
   setTimeout(function() {
       tutupAlert();
-  }, 7000);
+  }, 700);
 }
 
 function tutupAlert() {
